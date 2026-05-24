@@ -8,20 +8,14 @@ Paste code, choose a documentation mode, and generate structured output instantl
 
 ## Screenshots
 
-### Empty State
+### Dashboard
 
-Use this view to show the clean input/output layout before generation.
+ ![Empty state](screenshots/dashboard.png)
 
 ### Generated Output
 
-Use this view to show a completed README rendered in the output panel with copy support and scrolling.
+ ![Generated output](screenshots/result.png)
 
-> Add the provided screenshots here when preparing the final submission package. If you want, you can place them in a `docs/` or `screenshots/` folder and reference them below:
->
-> ```md
-> ![Empty state](docs/screenshot-empty.png)
-> ![Generated output](docs/screenshot-output.png)
-> ```
 
 ## Key Features
 
