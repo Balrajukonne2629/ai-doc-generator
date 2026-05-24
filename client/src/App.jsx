@@ -7,7 +7,7 @@ import OutputSection from './components/OutputSection'
 import Footer from './components/Footer'
 import { getCached, setCached } from './utils/responseCache'
 
-const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000'
+const API_URL = import.meta.env.VITE_API_URL || 'https://ai-doc-generator-eevl.onrender.com'
 
 const endpoints = {
   readme: '/generate-readme',
